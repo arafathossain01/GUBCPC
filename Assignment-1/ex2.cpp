@@ -3,18 +3,14 @@ using namespace std;
 
 int main()
 {
-    // Right-Angled Triangle of stars
-    //  cout<<"*\n* *\n* * *\n* * * *\n* * * * *";
 
-    // Hollow Square of stars
-    /*
-     cout<<"* * * *\n";
-     cout<<"*     *\n";
-     cout<<"*     *\n";
-     cout<<"* * * *";
-     */
+    cout << "*\n* *\n* * *\n* * * *\n* * * * *";
 
-    // Pascal's Triangle
+    cout << "* * * *\n";
+    cout << "*     *\n";
+    cout << "*     *\n";
+    cout << "* * * *";
+
     cout << "   1   \n";
     cout << "  1 1  \n";
     cout << " 1 2 1 \n";
